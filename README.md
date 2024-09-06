@@ -1,6 +1,6 @@
-# :earth_americas: GDP dashboard template
+# :earth_americas: MQTT dashbaord
 
-A simple Streamlit app showing the GDP of different countries in the world.
+A simple Streamlit app showing the data of different mqtt sensor.
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://gdp-dashboard-template.streamlit.app/)
 
